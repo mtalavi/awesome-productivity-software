@@ -35,6 +35,8 @@ and project planning software;
 * [**Yana**](https://yana.js.org) [Multi-platform / *Free*] Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more;
 ## Pomodoro timers
 * [**Yellow Tomato**](https://productive.fish/pomodoro-timer/) [Web / *Free*] - Simple timer for Pomodoro technique;
+## Break reminders
+* [**Awayra**](https://awayra.pages.dev/) [Windows / *Free* & [*Open-source*](https://github.com/AWAYRA/AWAYRA-WPF)] - Independent eye-rest and movement-break reminders that work offline;
 ## Multi-Purpose
 * [**Notion**](https://www.notion.so/) [Multi-platform / *Freemium*] - All-in-one collaborative workspace for note-taking, project management and task management.
 * [**Clipboard**](https://getclipboard.app/) [Multi-platform / *Free* & [*Open-source*](https://github.com/Slackadays/Clipboard)] - Easy-to-use data management tool that acts like an external brain.
